@@ -1,4 +1,4 @@
-# Multiplication game for kids
+# Multiplication game for kids - version 2
 import random
 n = 10
 v = 0
