@@ -1,0 +1,1 @@
+Multiplication game program for children. The program gives the player ten randomly generated multiplication questions. After each question, the program should tell them whether they answered correctly or not, and what the correct answer is.
